@@ -1,0 +1,1001 @@
+name,room,floor,department
+David Joyce,403,4,Computer Science
+Brian Powell,362,5,Physics
+Rebecca Rose,101,5,Physics
+Andrew Wheeler,108,5,Computer Science
+Jennifer Cabrera,399,5,Mechanical Engineering
+Kimberly Hamilton,263,4,Computer Science
+Jason Russo,423,5,Electrical Engineering
+Margaret Washington,434,4,Computer Science
+Andrea Mayer,467,2,Computer Science
+Albert Garrison,230,4,Chemistry
+Adrian Cox,149,5,Chemistry
+Robert Thomas,290,4,Physics
+Sean Spence,347,4,Physics
+Bobby Brown,337,1,Mathematics
+Nathan Mills,321,1,Physics
+Wendy Davis,335,5,Chemistry
+Judith Grimes,426,1,Mechanical Engineering
+James Shaw,485,1,Mechanical Engineering
+April Small,215,5,Mechanical Engineering
+Sherry Gregory,395,2,Physics
+Richard Matthews,347,1,Physics
+Joel Campbell,129,2,Electrical Engineering
+Cody Henry,128,4,Chemistry
+Joan Lopez,455,2,Mathematics
+Brittney Young,406,2,Electrical Engineering
+Kimberly Grant,413,1,Computer Science
+Michael Clark,181,1,Mathematics
+Joanna Davidson,358,4,Mathematics
+Andrea Gonzalez,347,1,Mathematics
+Kevin Le,475,1,Mathematics
+Charlene Wu,393,3,Physics
+Anthony Robertson Jr.,207,1,Physics
+Daniel Becker,189,4,Electrical Engineering
+Ryan Wilson,255,3,Electrical Engineering
+Terri Dominguez,289,1,Mechanical Engineering
+Michael Woodard,342,3,Mathematics
+Jennifer Stanley,362,5,Chemistry
+Melissa Rodriguez,335,4,Mathematics
+Robert Weaver,107,2,Mathematics
+Katherine Cox,273,2,Computer Science
+Melissa Dyer,181,3,Mathematics
+Joseph Jones,275,4,Computer Science
+Eugene Bailey,142,4,Mechanical Engineering
+Laura Hernandez,169,3,Mathematics
+Margaret Acevedo,345,3,Mechanical Engineering
+Paul Lopez,393,4,Mathematics
+Angela Chavez,396,3,Electrical Engineering
+Kathryn Sharp,101,3,Electrical Engineering
+Shawn Nelson,299,1,Computer Science
+Sandra Roberts,320,2,Mechanical Engineering
+Bruce Nguyen,130,5,Computer Science
+Ryan Friedman,490,3,Mechanical Engineering
+Cristina Barton,310,5,Mathematics
+Nathan Carey,248,2,Chemistry
+Sharon Hebert,112,1,Physics
+Robert Bolton,341,3,Mechanical Engineering
+Dustin Gomez,136,3,Mechanical Engineering
+Robert Rivera,470,5,Chemistry
+Andrea Garcia,161,2,Mechanical Engineering
+Laura Campos,299,3,Electrical Engineering
+Laura Wyatt,219,5,Mechanical Engineering
+Barbara Wright,122,2,Computer Science
+Vincent Daniels,468,3,Physics
+Steven Brown,332,4,Electrical Engineering
+Andrew Butler,180,2,Electrical Engineering
+Ralph Nelson,385,4,Mechanical Engineering
+Grant Alexander,342,2,Mechanical Engineering
+Megan Marquez,204,2,Physics
+Alexander Maxwell,350,4,Mechanical Engineering
+Ruth Massey,200,4,Mathematics
+Tracy Williams PhD,162,3,Mathematics
+Kelly Ward,219,1,Computer Science
+Ricardo Powers,389,2,Physics
+Whitney Herrera,441,1,Chemistry
+Peter Moreno,500,3,Electrical Engineering
+Mary Vargas,145,3,Electrical Engineering
+Raymond Green,486,2,Computer Science
+John West,208,5,Electrical Engineering
+Rebecca Williams,157,2,Physics
+Stacy Lewis,230,3,Mathematics
+David Soto,417,2,Physics
+Ronald Wallace,159,4,Mathematics
+Jamie Gross,382,1,Computer Science
+Lisa Brown,270,2,Chemistry
+Valerie Malone,321,2,Electrical Engineering
+Jeremy Chang,158,2,Physics
+Jeffrey Anderson,473,5,Physics
+Danielle White,383,5,Mathematics
+William Anderson,357,2,Mechanical Engineering
+Henry Wilson,286,3,Mathematics
+Sean York,327,5,Mathematics
+Gabriel Dunlap,245,4,Electrical Engineering
+Cindy Mills,223,2,Electrical Engineering
+Travis Holloway,143,2,Mechanical Engineering
+Melanie Gordon,248,5,Physics
+James Vaughn,253,5,Chemistry
+Joseph Erickson,156,3,Physics
+Andrew Townsend,323,3,Chemistry
+Sarah Kramer,450,3,Mathematics
+Jessica Stevens,404,5,Physics
+Tonya Vincent,284,5,Electrical Engineering
+Dr. Michael Mack,355,5,Physics
+Jeffrey Ford,269,4,Mathematics
+Theresa Ford,130,1,Mechanical Engineering
+Timothy Davidson,114,4,Mathematics
+Samantha Garrison,450,2,Electrical Engineering
+Stephanie Green,132,4,Chemistry
+Joseph Miranda,222,3,Mathematics
+Jennifer Thomas,221,3,Physics
+Jenna Woods,452,3,Mechanical Engineering
+Sabrina Ingram,134,5,Computer Science
+Michael Moyer,183,2,Electrical Engineering
+Janet Perez,421,3,Electrical Engineering
+Frank Miller,280,4,Electrical Engineering
+Jeffrey Murray,319,5,Computer Science
+Eric Baldwin,323,1,Mechanical Engineering
+Ashley Maldonado MD,458,4,Computer Science
+Lisa Rice,378,2,Chemistry
+Amy Park,218,3,Chemistry
+Danielle Martinez,478,4,Mathematics
+Andrew Morris,358,2,Physics
+Allison Crosby,377,1,Mathematics
+Mary Nunez,257,3,Chemistry
+Jeffery Baker,403,1,Computer Science
+Ms. Cynthia Greer,395,4,Computer Science
+Sherry Wagner,156,2,Mathematics
+Christine Rodriguez,322,5,Mathematics
+Kenneth Rivera,212,1,Chemistry
+Patrick Michael,346,2,Computer Science
+Lindsay Maxwell,476,1,Mechanical Engineering
+Amanda Kerr,475,5,Physics
+Angel Wu,227,5,Computer Science
+Amanda Key,241,1,Electrical Engineering
+Courtney Allen,494,2,Chemistry
+Jessica Mcdaniel,180,3,Physics
+Kristina Mcdaniel,269,4,Mechanical Engineering
+Brent Young,135,4,Electrical Engineering
+Lauren Lucas,111,4,Mechanical Engineering
+Lauren Hicks,435,3,Computer Science
+Emma Warner,240,5,Computer Science
+Bradley Rodriguez,231,3,Mechanical Engineering
+Autumn Smith,391,4,Chemistry
+William Turner,275,1,Mechanical Engineering
+Tammy Trujillo,254,5,Mathematics
+Joshua Little,481,2,Computer Science
+Lindsey Price,176,4,Electrical Engineering
+Beth Lopez,209,2,Mechanical Engineering
+Kristen Thomas,342,3,Computer Science
+Jesse Mitchell,496,4,Chemistry
+Brian Vazquez,133,1,Chemistry
+Briana Galvan,348,5,Mechanical Engineering
+Terri Herring,396,2,Mechanical Engineering
+Jennifer Vasquez,288,3,Computer Science
+Amanda Perez,142,4,Mechanical Engineering
+Connie Jones,493,2,Mathematics
+William Gray,373,2,Chemistry
+Kristin Shaw,198,1,Mechanical Engineering
+David Watson,416,4,Mechanical Engineering
+Nancy Montes,266,3,Mechanical Engineering
+Shannon Bridges,493,2,Mechanical Engineering
+Jonathan Wright,480,5,Computer Science
+Karen Martin,179,1,Mechanical Engineering
+Kathleen Nelson,221,3,Physics
+Jeanne Frey,488,1,Chemistry
+Jason Mccormick,403,3,Physics
+Joseph Adams,107,2,Mechanical Engineering
+Chelsea Sellers,208,4,Mathematics
+David Taylor,218,3,Physics
+Diana Miller,234,2,Chemistry
+Amanda Simmons,127,5,Mathematics
+Jennifer Randolph,124,3,Computer Science
+Andrew Peters,289,1,Physics
+Amber Lee,128,4,Chemistry
+Raymond Ferguson,139,5,Chemistry
+Susan Johnson,359,4,Electrical Engineering
+Daniel Carter,178,1,Chemistry
+Jennifer Clark,121,4,Chemistry
+Jordan Jones,413,2,Chemistry
+Kevin Long,365,1,Mechanical Engineering
+Troy Fleming,399,1,Computer Science
+Janice Collins,249,4,Mechanical Engineering
+Gregory Bailey,412,2,Electrical Engineering
+John Curtis,100,2,Chemistry
+Elizabeth Sexton,237,5,Computer Science
+Laura Hart,116,4,Physics
+Joseph Edwards,252,5,Physics
+Gregory Johnson,413,1,Mechanical Engineering
+David Watkins,480,3,Chemistry
+Frank Salazar,127,1,Electrical Engineering
+Christine Dominguez,129,3,Chemistry
+Scott Potter,273,1,Mathematics
+Courtney Bates,139,3,Mathematics
+Jacqueline Cole,413,2,Computer Science
+Randy Warren,226,3,Chemistry
+Jonathon Mason,342,4,Mathematics
+Michelle Nolan,389,2,Mechanical Engineering
+David Smith,212,5,Mechanical Engineering
+Joy Gonzalez,140,2,Mechanical Engineering
+Eric Hill,125,3,Mechanical Engineering
+Tracy Perez,418,5,Physics
+Ryan Galvan,494,5,Computer Science
+Bethany Pacheco,368,5,Chemistry
+Cindy Lang,410,4,Electrical Engineering
+Erik Adams,302,5,Mechanical Engineering
+Ryan Salinas,256,3,Mechanical Engineering
+Amanda Miller,107,5,Mathematics
+Brian Holt MD,334,3,Mechanical Engineering
+Melissa Tate,258,2,Computer Science
+Kimberly Lowery,105,3,Mechanical Engineering
+Antonio Murphy,107,2,Electrical Engineering
+Sandra Hurst,187,5,Mechanical Engineering
+Corey Wright,261,1,Electrical Engineering
+Margaret Harris,341,5,Computer Science
+Felicia Clark,348,1,Mathematics
+Andre Lopez,380,2,Electrical Engineering
+Jesse Rodriguez,240,3,Mechanical Engineering
+Ronald Johnson,340,2,Chemistry
+Mrs. Andrea Jackson,224,5,Electrical Engineering
+Melanie Barrett,326,5,Electrical Engineering
+Bernard Rios,425,3,Computer Science
+Tracy Rodriguez,333,1,Mechanical Engineering
+Amanda Reyes,154,2,Physics
+Lisa Butler,407,5,Mathematics
+Andrea Cantu,105,2,Chemistry
+Michael Jacobson,136,4,Computer Science
+Mikayla Bowers,156,1,Mathematics
+Susan Scott,186,1,Electrical Engineering
+Julie Soto,483,2,Chemistry
+Mr. Anthony Baxter,499,5,Physics
+Benjamin Bennett,331,5,Chemistry
+Jacqueline Morrison,108,2,Mechanical Engineering
+Christian Hensley,458,1,Computer Science
+Darryl Frazier,491,3,Electrical Engineering
+Michael Clark,330,1,Mathematics
+Sandra Reynolds,297,3,Electrical Engineering
+Cynthia Hughes,325,5,Mechanical Engineering
+Keith Owens,379,1,Computer Science
+Jason Medina,225,1,Physics
+Deborah Adams,170,4,Chemistry
+Dr. Amanda Burke DDS,273,1,Chemistry
+Jonathan Holland,144,3,Mathematics
+Mrs. Rachael Gutierrez,168,1,Mathematics
+Kelly Rodriguez,473,3,Mechanical Engineering
+Amanda Hernandez,298,1,Physics
+Cheryl Murillo,433,5,Chemistry
+Joseph Reyes,158,4,Electrical Engineering
+Patricia Mathews,134,1,Electrical Engineering
+Melissa Phillips,353,5,Mathematics
+Christopher Ramsey,368,4,Physics
+Christopher Kemp,486,5,Electrical Engineering
+Anna Hanson,420,5,Chemistry
+Daniel Morales,178,1,Computer Science
+William Thomas,141,2,Mechanical Engineering
+Alan Garner,240,2,Chemistry
+Daniel Morton,414,4,Chemistry
+Taylor Webb,243,1,Computer Science
+Diana Hampton,309,2,Mechanical Engineering
+Kelsey Hardy,258,3,Mechanical Engineering
+Dr. Gabriel Clark MD,138,2,Electrical Engineering
+Tyler Patel,420,5,Mechanical Engineering
+Sara Gonzalez,283,3,Chemistry
+Margaret Benton,300,5,Mechanical Engineering
+Kristen Caldwell,212,5,Computer Science
+Mary Brooks,300,3,Mechanical Engineering
+Tamara Hubbard,496,1,Physics
+James Munoz,474,3,Mathematics
+Christopher Gray,322,3,Mechanical Engineering
+Justin Nelson,339,4,Electrical Engineering
+Paul Wolfe DDS,226,5,Mechanical Engineering
+Terry Jones,386,4,Chemistry
+Daniel Taylor,388,2,Chemistry
+Chad Conner,430,2,Chemistry
+Dominique Dunn,194,5,Computer Science
+Jasmine Buck,153,4,Mathematics
+Mackenzie Kim,142,3,Chemistry
+John Rodriguez,199,4,Chemistry
+Brandon Sparks,148,4,Computer Science
+Jessica Turner,415,5,Computer Science
+Lori Williams,454,2,Mathematics
+Jacqueline Taylor,228,5,Computer Science
+Henry Chen,107,3,Electrical Engineering
+Gregory Knapp,448,4,Mechanical Engineering
+Ian Gilbert,385,5,Electrical Engineering
+Robert Joyce,284,3,Physics
+Jose Smith,460,4,Mechanical Engineering
+Antonio Wu,450,2,Electrical Engineering
+David Smith,309,5,Computer Science
+Timothy Alexander,214,5,Mathematics
+Dana Wang,212,4,Physics
+Benjamin Moran,133,1,Computer Science
+Chad Compton,103,4,Mathematics
+Maurice Gonzalez,235,5,Mathematics
+Kelly Robbins,226,5,Mechanical Engineering
+Brandon Herrera,278,1,Mechanical Engineering
+Andrew Simpson,441,4,Physics
+William Downs,308,1,Computer Science
+Cynthia Perkins,194,3,Mechanical Engineering
+Miss Tamara Dalton MD,185,5,Mathematics
+Megan Johnston,208,5,Mathematics
+Jennifer Foster,157,1,Physics
+Misty Golden,148,5,Computer Science
+Benjamin Carr,159,2,Computer Science
+Natasha Wolfe,339,5,Physics
+Jordan Ramirez,330,4,Computer Science
+Lauren Williams,480,3,Mathematics
+Melissa Stevens,151,4,Mechanical Engineering
+Jamie Melendez,447,3,Electrical Engineering
+Sarah Morris,329,3,Physics
+Scott Charles,381,4,Mechanical Engineering
+Jacqueline Randall,498,3,Mathematics
+Willie Marshall,237,2,Mathematics
+Emily Walton,155,2,Mechanical Engineering
+Anthony Camacho,254,1,Electrical Engineering
+Brianna Lambert,321,5,Chemistry
+David Wilson,234,3,Electrical Engineering
+Cheryl Walker,397,1,Computer Science
+William Chandler,349,5,Computer Science
+Carol Jenkins,465,3,Physics
+Laura Rivera,347,2,Electrical Engineering
+Angela Huber,236,2,Computer Science
+David Payne,160,5,Chemistry
+Dr. Tonya George,237,5,Mathematics
+Kaitlyn Edwards,375,3,Electrical Engineering
+Jennifer Wilson,163,2,Physics
+Kristen Cruz MD,363,5,Computer Science
+Emily Morgan,178,5,Physics
+Debra Mitchell,162,1,Electrical Engineering
+Jessica Simmons,494,2,Mechanical Engineering
+Miss Angela Brady,308,1,Electrical Engineering
+Mr. Eric Fry,195,2,Mechanical Engineering
+Vanessa Russell,261,2,Mechanical Engineering
+Lisa Daugherty,361,3,Mathematics
+Joshua Davis,278,4,Computer Science
+Kathryn Rodriguez,309,4,Physics
+Michael Green,388,3,Computer Science
+Daniel Ward,333,3,Computer Science
+Norman Hudson,130,5,Mathematics
+Nicole Daniels,453,4,Physics
+Maria Webb,479,5,Computer Science
+Elizabeth Williams,339,3,Chemistry
+Kenneth Carter,168,1,Chemistry
+Christina Rogers,163,1,Mathematics
+Jennifer Meadows,250,1,Electrical Engineering
+Kathryn Boyd,494,4,Mechanical Engineering
+Michael Hodges,145,2,Electrical Engineering
+Marie Boyd,173,4,Mechanical Engineering
+Gerald Russell,331,1,Physics
+Joshua Mccall,377,1,Mathematics
+Kevin Stewart,113,3,Chemistry
+Jennifer Schmidt,146,2,Chemistry
+Ms. Pamela Anderson,176,3,Mechanical Engineering
+Kayla Rollins,356,4,Electrical Engineering
+Jackie Cain,442,1,Physics
+Evan Martinez,392,1,Mathematics
+Christina Cervantes,410,2,Electrical Engineering
+Ethan Rodriguez,274,3,Mechanical Engineering
+Mr. Alfred Mills,110,3,Physics
+Regina White,423,4,Mechanical Engineering
+Rebecca Sawyer,402,1,Computer Science
+Christine Haynes,170,5,Physics
+Mrs. Brianna Cross DVM,477,1,Physics
+Alyssa Smith,245,3,Computer Science
+Joshua Mora,179,3,Chemistry
+Brendan Ruiz,173,4,Chemistry
+Eric Miller,269,1,Mechanical Engineering
+Brandon Wong,208,4,Electrical Engineering
+James Smith,295,3,Physics
+Patrick Wilson,188,2,Mathematics
+Catherine Peterson,260,5,Mechanical Engineering
+Alexandra Joseph,203,3,Mathematics
+Norman Medina,362,3,Chemistry
+Anthony Lynch,456,1,Mathematics
+Caleb Valdez,480,1,Physics
+Michael Hanson,418,1,Computer Science
+Debra Nielsen,281,1,Mathematics
+Brendan Salas,138,4,Mathematics
+Carla Miller,356,5,Physics
+Allen Mata,101,5,Mathematics
+Patricia Higgins,380,1,Chemistry
+Jeffrey Huff,403,1,Electrical Engineering
+Ashley Yoder,494,5,Electrical Engineering
+Joel Harris,215,1,Mechanical Engineering
+Patricia Herman,351,3,Mechanical Engineering
+Jesse Duke,412,2,Computer Science
+Allison Green,335,5,Computer Science
+Michael Mosley,382,2,Mechanical Engineering
+Dr. Alicia Mason,253,2,Chemistry
+Stacy Reid,197,1,Mechanical Engineering
+Gary Cain,468,4,Computer Science
+Jennifer Sullivan,339,5,Electrical Engineering
+Michelle Carrillo,466,1,Mathematics
+Dawn Warren,186,4,Physics
+Randy Kane,474,3,Mechanical Engineering
+Joseph Terrell,431,2,Mechanical Engineering
+Megan Winters,366,4,Electrical Engineering
+Ricky Weaver,186,4,Mechanical Engineering
+Leah Torres,335,5,Electrical Engineering
+Heidi Lewis,286,3,Computer Science
+Jennifer Vasquez,350,4,Mechanical Engineering
+Deborah Clarke,328,2,Mechanical Engineering
+Haley Townsend,368,4,Mathematics
+Leah Franklin,388,3,Mathematics
+Roberto Wilkins,444,5,Electrical Engineering
+Kristin Gilbert,122,2,Chemistry
+Edward Shaw,171,5,Computer Science
+Dr. Kristine Wilson,363,1,Electrical Engineering
+Shelby Larson,486,5,Electrical Engineering
+Sara Bass,111,5,Computer Science
+Sharon Ellis,248,5,Computer Science
+Keith Graham,463,2,Computer Science
+Patrick Miller,147,1,Chemistry
+Kathleen Walters,139,4,Electrical Engineering
+Terri Nielsen,188,1,Physics
+Thomas Robertson,362,4,Physics
+Michelle Horton,143,3,Electrical Engineering
+Zachary Key Jr.,200,4,Mathematics
+Heather Crawford,350,4,Chemistry
+Michael Porter,260,5,Physics
+Ashlee Jones,430,2,Electrical Engineering
+Anthony Holden,293,4,Chemistry
+Joyce Richard,444,4,Mechanical Engineering
+Jose Scott,290,5,Computer Science
+Devin Frey,110,4,Chemistry
+Lauren Jones,456,2,Electrical Engineering
+Rachel Harris,247,1,Chemistry
+James Mendez,278,4,Chemistry
+Michael Erickson,286,3,Chemistry
+Tyler Brown,420,3,Chemistry
+Michael Kelly,484,5,Physics
+Sheri Gonzalez,330,2,Electrical Engineering
+Terri Atkinson,321,3,Computer Science
+Jennifer Long,120,2,Electrical Engineering
+James Barnes,330,3,Computer Science
+Frank Christian,384,5,Mechanical Engineering
+Sean Woodard,287,1,Physics
+Shane Lewis,298,2,Physics
+Melody Gonzales,500,3,Mechanical Engineering
+Julia Lee DDS,485,4,Electrical Engineering
+Kimberly Perez,157,5,Electrical Engineering
+Eric Shields,218,5,Chemistry
+Keith Powell,450,1,Chemistry
+Leah Marquez,397,3,Electrical Engineering
+Derek Hubbard,487,5,Electrical Engineering
+Shawn Lawrence,213,4,Mechanical Engineering
+Stephen Lynn,230,4,Electrical Engineering
+Larry Howell,454,1,Chemistry
+Michael Edwards,237,3,Electrical Engineering
+Holly Rich,404,4,Chemistry
+Thomas Horton,284,5,Chemistry
+Jimmy Simpson,415,5,Mechanical Engineering
+Monica Vaughan,421,3,Computer Science
+Noah Perez,215,1,Physics
+Heather Peterson,347,4,Electrical Engineering
+Kelly Robinson,499,3,Computer Science
+Theresa Gonzalez,345,4,Physics
+Christopher Herman,320,4,Computer Science
+Lisa Gregory,490,1,Mathematics
+John Todd,389,5,Chemistry
+Morgan Warren,353,4,Physics
+Robert Oconnor,235,5,Chemistry
+Caleb Hill,497,5,Mathematics
+Joshua Pacheco,455,2,Mechanical Engineering
+Gregory Sims,299,2,Physics
+Samantha Scott,262,1,Mathematics
+Devin Shaw,395,5,Mathematics
+Steven Vincent,369,2,Electrical Engineering
+Anthony Lucas,492,1,Computer Science
+Elizabeth Wilkins,212,3,Computer Science
+James Lopez,241,4,Physics
+Harold Rios,167,2,Mechanical Engineering
+Charles Glass,373,1,Electrical Engineering
+Elizabeth Wells,288,4,Mathematics
+Julie Valdez,371,4,Physics
+Cody Armstrong,373,1,Computer Science
+Daniel Jones,257,2,Physics
+Dr. Richard Frey,252,4,Physics
+Alexandra Perez,292,5,Electrical Engineering
+Joel Shelton,322,2,Chemistry
+David Gill,394,5,Electrical Engineering
+Michelle Barber,430,2,Physics
+Robin Rivera,433,5,Electrical Engineering
+Brittany Smith,139,5,Mechanical Engineering
+Carolyn Norton,306,2,Mechanical Engineering
+Andre Kelly,419,2,Mechanical Engineering
+John Harrison,472,1,Physics
+Faith Williams,252,2,Chemistry
+Tim Mcdaniel,330,1,Computer Science
+Christopher Rhodes,288,4,Physics
+Jennifer Blanchard,387,3,Electrical Engineering
+Andres Hill,497,2,Electrical Engineering
+Jonathon Irwin,406,5,Chemistry
+Brandon Graham,480,5,Physics
+Carrie Barnett,218,4,Electrical Engineering
+Randy Arnold,146,3,Chemistry
+Andrea Perkins,202,1,Mechanical Engineering
+Dr. Brian Rodriguez,249,2,Mathematics
+Jeremy Baker,189,2,Electrical Engineering
+Taylor Pearson,364,4,Computer Science
+Amanda Foster,459,1,Mechanical Engineering
+Alex Evans,422,4,Mechanical Engineering
+Shannon Hernandez,159,5,Mechanical Engineering
+Mary West,268,2,Physics
+Dave Mitchell,218,1,Physics
+James Mcgee,480,2,Chemistry
+Michael Williams,399,4,Mechanical Engineering
+Jason Blake,482,1,Chemistry
+Desiree Dickson,132,2,Chemistry
+Andrew Collins,407,5,Mechanical Engineering
+Carrie Sullivan,288,5,Mathematics
+Jose Shepard,258,2,Electrical Engineering
+Ashley Greene,490,3,Physics
+Jim Lawrence,368,1,Physics
+Kelsey Golden,397,2,Mathematics
+Christian Barnes,102,2,Mathematics
+Donna Lewis,132,3,Computer Science
+Stanley Powell,214,1,Mechanical Engineering
+Eric Kramer,465,3,Physics
+Kimberly Walters,483,5,Chemistry
+Lisa Gregory,476,2,Chemistry
+Meghan Steele,176,5,Mathematics
+Tracy Baker,101,1,Chemistry
+Heidi Coleman,179,5,Physics
+Javier Jones,308,1,Chemistry
+Victoria Johnson,448,1,Mechanical Engineering
+David Ferguson,197,3,Physics
+Heather Watson,439,5,Chemistry
+Jacqueline Riddle,182,4,Computer Science
+Sarah Gray,395,2,Mathematics
+Tracy Webb,362,4,Mathematics
+Jose Bush,432,2,Mathematics
+Andrea Webb,173,5,Electrical Engineering
+Aaron Stafford,479,1,Chemistry
+Erin Watkins,282,2,Physics
+Jacob Johnson,451,4,Physics
+Nicholas Dunn,403,2,Physics
+James Pitts,357,3,Electrical Engineering
+Jason Garcia,374,3,Computer Science
+Michelle Boyer,362,1,Mechanical Engineering
+Corey Mason,218,5,Chemistry
+Beverly Brown,268,4,Chemistry
+Morgan Chavez,456,1,Computer Science
+Jeffrey Garcia,137,1,Chemistry
+Stephen Petersen,327,4,Mechanical Engineering
+William Allen,333,2,Mathematics
+William Sullivan,383,3,Physics
+Gregory Adams,188,5,Chemistry
+Jesse Burgess,225,5,Physics
+Jeremy Walsh,346,1,Physics
+Leah Barber,144,1,Computer Science
+Lindsey Mathis,360,4,Mechanical Engineering
+Erin Stewart,335,1,Chemistry
+Paul Smith,379,5,Chemistry
+Amy Waters,476,5,Mechanical Engineering
+Kimberly Kirby,276,4,Electrical Engineering
+Chase Campbell,328,3,Physics
+Christine Webb,293,5,Mechanical Engineering
+Alyssa Downs,368,2,Physics
+Shane Barton,386,2,Computer Science
+Bradley Allen,353,3,Electrical Engineering
+Anna Greer,200,4,Computer Science
+Nicholas Fitzgerald,473,2,Mathematics
+Elijah Martinez,129,4,Physics
+Vincent Ross,342,2,Chemistry
+Kimberly Leblanc,286,4,Mechanical Engineering
+Sheila Reynolds,267,5,Physics
+Brittany Walker,465,1,Mechanical Engineering
+Gina Jones,416,1,Mathematics
+William Taylor,231,5,Mathematics
+Lisa Harper,360,5,Computer Science
+Christopher Morales,163,1,Chemistry
+Kimberly Clay,190,5,Chemistry
+Joshua Simmons,425,5,Electrical Engineering
+Joshua Ortiz,479,1,Mechanical Engineering
+Joseph Peterson,242,1,Chemistry
+Joseph Koch,173,5,Electrical Engineering
+Nathan Frederick,375,4,Computer Science
+Seth Castro,377,5,Mathematics
+Carlos Palmer,263,5,Physics
+Nancy Randall,385,5,Mathematics
+James Franklin,402,3,Electrical Engineering
+Katherine Sutton,456,5,Mechanical Engineering
+Allison Serrano,314,1,Physics
+Catherine Shaffer,460,2,Electrical Engineering
+Shawn Chen,210,3,Physics
+Robert Winters,279,5,Electrical Engineering
+Rebekah Martinez,426,3,Mathematics
+Mitchell Moore,141,3,Electrical Engineering
+Adam Velez,489,1,Electrical Engineering
+James Blevins,265,5,Computer Science
+Patricia Koch,341,1,Mathematics
+Jackie Adams,372,3,Mathematics
+Nicole Hensley,149,2,Electrical Engineering
+Christopher Kelley,439,2,Mechanical Engineering
+Robert Hall,207,3,Computer Science
+Jessica Jennings,350,5,Physics
+Karen Morris,355,5,Mathematics
+Elizabeth Hill,219,2,Chemistry
+Crystal Stone,161,1,Chemistry
+Jennifer Murphy,461,1,Mathematics
+Shannon Lozano,202,5,Chemistry
+Andre Barnett,316,5,Mathematics
+Benjamin Bailey,285,4,Mathematics
+Brian Hammond,322,3,Physics
+Juan Townsend,491,1,Computer Science
+Jennifer Lowery,152,1,Mathematics
+Dawn Morris,338,1,Chemistry
+Jessica Hill,194,4,Electrical Engineering
+Joshua Becker,361,1,Electrical Engineering
+Derrick Smith,499,2,Computer Science
+Susan Marks,385,5,Electrical Engineering
+Robert Hatfield,101,1,Electrical Engineering
+Wesley Brennan PhD,373,5,Physics
+Brian Jones,227,2,Electrical Engineering
+Michelle Williams,245,3,Computer Science
+Michael Neal,432,2,Computer Science
+Paul Bennett,242,5,Electrical Engineering
+Keith Cortez,189,4,Mathematics
+Chad Dawson,436,5,Mathematics
+Paul Walker,249,2,Chemistry
+Andrew Moore,267,2,Chemistry
+Kimberly Reed,413,2,Mathematics
+John Arroyo,167,2,Chemistry
+Charles Ward,131,3,Electrical Engineering
+Robert Sawyer,344,3,Physics
+James Nelson,279,5,Computer Science
+Michael Steele,244,1,Mechanical Engineering
+Richard Baker,261,3,Mechanical Engineering
+Taylor Nguyen,288,1,Computer Science
+Julia Lee,475,5,Mathematics
+Mr. Shane Higgins,165,1,Chemistry
+Ashley Perry,234,5,Chemistry
+Karen Castillo,326,3,Electrical Engineering
+Brenda Anderson,347,4,Computer Science
+Sheila Gallagher,405,3,Physics
+Nathan Perez,464,3,Computer Science
+Steven Walsh,220,2,Chemistry
+Christina Bush,127,5,Computer Science
+Aimee Lawson,500,4,Computer Science
+Alexis Shea,317,5,Mechanical Engineering
+Jennifer Newton,259,4,Mechanical Engineering
+Kathy Villa,439,1,Mechanical Engineering
+Mark Parker,248,3,Electrical Engineering
+Tara Walton,320,1,Computer Science
+Robert Rodriguez,333,2,Chemistry
+Aaron Williams,350,2,Mathematics
+Kathleen Harvey,166,2,Mechanical Engineering
+Derek Hardy,416,3,Mathematics
+Robin Coleman,402,1,Mathematics
+Patrick Ortiz,213,3,Physics
+Elizabeth Edwards,499,3,Computer Science
+Louis Wagner,120,2,Physics
+Bryan Bruce,255,3,Mechanical Engineering
+Christina Lewis,440,4,Physics
+Melissa Mooney,166,5,Physics
+Benjamin Burch,355,2,Mathematics
+Vickie Washington,438,5,Mathematics
+Susan Robinson,368,3,Mathematics
+Mark Mcintyre,244,4,Physics
+Kelly Miller,447,4,Chemistry
+Sarah Barker,131,2,Chemistry
+Mark Bautista Jr.,160,1,Computer Science
+Samantha Lane,302,2,Physics
+Julie Cunningham,301,2,Electrical Engineering
+Adam Richmond,191,3,Computer Science
+Tyler Clark,136,3,Computer Science
+Brandy Chan,409,4,Electrical Engineering
+Valerie Montes,293,4,Chemistry
+Benjamin Campbell,334,4,Electrical Engineering
+Lisa Alexander,164,3,Electrical Engineering
+Brianna Caldwell,190,1,Mechanical Engineering
+Natasha Lowery,228,2,Mathematics
+Dana Phillips,455,1,Electrical Engineering
+Michelle Giles,487,4,Electrical Engineering
+Emily Williams,197,5,Mechanical Engineering
+Audrey Hill,115,3,Mathematics
+Mary Chase,126,4,Electrical Engineering
+Brittany Hardy MD,416,1,Mechanical Engineering
+David Ashley,124,3,Electrical Engineering
+Elizabeth Dorsey,122,1,Physics
+John Fowler,289,5,Computer Science
+Yvonne Dawson,225,1,Mechanical Engineering
+Thomas Simmons,413,3,Mathematics
+David Williams,169,5,Mechanical Engineering
+Sonia Henderson MD,368,5,Computer Science
+Billy Bush,134,4,Electrical Engineering
+Dawn Mcconnell,151,5,Computer Science
+Amber Williams,300,3,Computer Science
+Michael Dickerson,266,2,Mechanical Engineering
+Shannon Riley,157,1,Physics
+Jamie Cole,453,4,Electrical Engineering
+Bryan Massey,500,3,Chemistry
+Jacob Anderson,391,3,Mathematics
+Kathleen Parks,478,4,Electrical Engineering
+Maria Mcneil,333,5,Electrical Engineering
+Robert Hall,253,3,Electrical Engineering
+Janet Diaz,335,1,Chemistry
+Juan Vaughn,391,2,Computer Science
+Brandy Evans,439,5,Computer Science
+Mrs. Tammy Richards PhD,373,1,Electrical Engineering
+Christopher Yang,330,3,Chemistry
+Emily Wells,405,1,Mathematics
+Kari Anderson,197,1,Mechanical Engineering
+Miguel Hodges,226,1,Chemistry
+Christopher Callahan,239,5,Mechanical Engineering
+Mary Dunn,301,1,Chemistry
+Thomas Copeland,484,4,Mathematics
+Donald Greer,377,5,Mechanical Engineering
+Timothy Griffin,230,3,Physics
+Dr. Luis Brown II,241,4,Electrical Engineering
+Dana Weiss,343,1,Physics
+Rodney Campbell,109,4,Chemistry
+Teresa Cook,101,1,Electrical Engineering
+Henry Baxter,363,2,Chemistry
+Melissa Clark,373,1,Mathematics
+Karen Moore,306,4,Mechanical Engineering
+Mark Lopez,459,4,Physics
+Brittany Edwards,488,5,Mechanical Engineering
+David Mcdonald,308,2,Mathematics
+Danny Baldwin,337,5,Physics
+Chelsea Newman,245,3,Electrical Engineering
+Tracy Leach,151,5,Electrical Engineering
+Scott Ray,323,5,Mechanical Engineering
+Kyle French,222,5,Electrical Engineering
+Rachel Mooney,281,5,Computer Science
+Susan Martinez,368,3,Electrical Engineering
+Cory Wilcox,463,5,Electrical Engineering
+Angela Miles,262,3,Computer Science
+Angela Taylor,275,3,Chemistry
+Emily Ford,102,2,Mathematics
+Christopher Brown,411,1,Mathematics
+Regina Mcclain,397,4,Physics
+Adam Griffith,243,3,Computer Science
+Timothy Love,161,3,Mechanical Engineering
+Louis Wade,197,5,Chemistry
+Karen Peterson,232,1,Physics
+David Ramirez,107,3,Electrical Engineering
+Michele Robinson,102,2,Physics
+Daniel Bray,249,3,Chemistry
+Miss Teresa Stewart,442,4,Chemistry
+Darrell Warren,426,5,Physics
+Elizabeth Moore,218,3,Chemistry
+James Wilson,143,2,Electrical Engineering
+Veronica Mccarthy,123,3,Mechanical Engineering
+Joseph Ramirez,383,5,Mathematics
+Timothy Stephenson,251,1,Electrical Engineering
+Maria Roberts,191,3,Electrical Engineering
+Mr. Andrew Bryan II,259,3,Chemistry
+Mary Thomas,185,4,Computer Science
+Lisa Escobar,224,5,Physics
+Tina Holmes,123,2,Physics
+Adriana Gonzalez,226,1,Electrical Engineering
+Nicole Griffin,366,4,Chemistry
+Kimberly Ortiz,447,5,Mechanical Engineering
+Andrew Lewis,416,2,Computer Science
+Christina Ramirez,345,5,Mechanical Engineering
+Diane Hunt,256,4,Computer Science
+Emily Herrera,203,2,Mathematics
+Tanner Mason,494,5,Computer Science
+Amanda Perez,317,4,Mechanical Engineering
+Diana Ward,400,5,Electrical Engineering
+Craig Payne,418,5,Mathematics
+Taylor Ferguson,303,4,Computer Science
+David Baker,124,3,Computer Science
+Katrina Ramirez,136,3,Physics
+Heidi Brown,133,1,Physics
+Jose Howard,406,1,Chemistry
+Daniel Rosario,475,5,Physics
+David Dominguez,190,5,Physics
+Paula Gregory,491,4,Chemistry
+Lisa Bailey,426,3,Chemistry
+Gail Carter,150,5,Electrical Engineering
+Gerald Mcmahon,122,2,Physics
+Christian Long,108,5,Electrical Engineering
+Toni Burgess,423,1,Computer Science
+Daniel Stokes,229,3,Chemistry
+Kristen Bailey,350,1,Chemistry
+Veronica Turner,144,1,Computer Science
+Daniel Morris,310,2,Computer Science
+Paul Rivera,375,2,Electrical Engineering
+Candice Ray,354,5,Mathematics
+Phillip Smith,296,5,Chemistry
+Jesus Anderson,398,4,Physics
+William Wu,171,3,Chemistry
+Jodi Wilkins,350,3,Mathematics
+Tammy Williams,253,5,Electrical Engineering
+Tommy Salinas,383,2,Chemistry
+Joe Cabrera,324,1,Mathematics
+Theresa Curry,121,5,Physics
+David Jennings,295,2,Electrical Engineering
+Christopher Allen,114,1,Computer Science
+Jaclyn Gomez DDS,172,1,Electrical Engineering
+Mrs. Ashley White,184,1,Computer Science
+Robert Harvey,279,4,Mathematics
+Anthony White,147,5,Mechanical Engineering
+Tiffany Johnson,449,4,Electrical Engineering
+Krista Gross,303,2,Physics
+Eric Bailey,126,4,Mathematics
+Kathryn Bennett,333,5,Computer Science
+Timothy Owen,180,2,Chemistry
+James Wright,131,2,Chemistry
+Colin Reed,257,2,Computer Science
+Terri Simpson,143,3,Mechanical Engineering
+Derek Dyer,191,1,Mathematics
+Patricia Juarez,451,1,Physics
+Michael Sanders,285,1,Chemistry
+Juan Walters,308,5,Mathematics
+Dr. Luis Mcdonald,155,1,Computer Science
+Amy Wagner,387,1,Physics
+Sarah Edwards,275,1,Physics
+Pamela Crawford,185,5,Electrical Engineering
+Stephanie Crawford,117,5,Electrical Engineering
+Lisa Robinson,258,5,Mathematics
+Anne Cortez,206,3,Physics
+Michael Higgins,160,1,Computer Science
+Emily Chavez,347,4,Physics
+Lori Walsh,439,1,Chemistry
+Jennifer Downs,139,3,Physics
+John Hanna,410,2,Mathematics
+Edward Hines,418,2,Mathematics
+Loretta Evans,174,1,Electrical Engineering
+Tracy Rivera,419,5,Mechanical Engineering
+Ricky Bernard,150,2,Electrical Engineering
+Carol Garza,293,2,Electrical Engineering
+Evelyn Hill,442,5,Mechanical Engineering
+Rebecca Jenkins,421,2,Electrical Engineering
+Nancy Norman,292,3,Physics
+Amy Scott,307,2,Mathematics
+Michael Bailey,244,4,Mathematics
+Theresa Holden,317,3,Mechanical Engineering
+Anne Frederick,337,4,Electrical Engineering
+Gabriel Leonard,106,1,Electrical Engineering
+William Morris,135,5,Computer Science
+Marcus Brown,486,2,Chemistry
+John Dodson,150,4,Electrical Engineering
+Jason Stephens,474,3,Mechanical Engineering
+Timothy Booth,137,5,Physics
+Steven Wells,244,1,Electrical Engineering
+David Wade,322,5,Electrical Engineering
+Sarah Lindsey,365,1,Mechanical Engineering
+John Ramirez,187,4,Mathematics
+Christine Frost,155,1,Physics
+Julie Hernandez,326,2,Computer Science
+Brenda Powell,319,2,Mathematics
+Hailey Graves,454,5,Mathematics
+Peter Stanley,212,5,Mathematics
+Patricia Anderson,388,1,Chemistry
+Kirk Klein,259,4,Electrical Engineering
+Matthew Hernandez,125,3,Chemistry
+Nicole Robertson,412,5,Physics
+Bruce Clay,318,5,Electrical Engineering
+Ashley West,266,3,Electrical Engineering
+Yolanda West,133,5,Electrical Engineering
+Brandon Velasquez,474,3,Chemistry
+Amy Hernandez,491,1,Computer Science
+Thomas Hernandez,128,3,Mechanical Engineering
+Jasmine Johnson,318,5,Computer Science
+Lindsey Whitaker,242,3,Chemistry
+Kathryn Kelly,288,5,Chemistry
+Sheila Calhoun,283,4,Computer Science
+Patricia Forbes,162,4,Physics
+Jennifer Freeman,468,3,Electrical Engineering
+Tara Lucas,341,4,Physics
+Danny Holmes,324,3,Mechanical Engineering
+Tammy Lawson,375,4,Mechanical Engineering
+Miranda Fisher,192,5,Computer Science
+Dominic Tran,178,4,Mechanical Engineering
+Mercedes Robles,408,1,Physics
+Samantha Abbott,268,1,Chemistry
+Thomas Huber,234,5,Mathematics
+Paula Chan,334,1,Computer Science
+Terrence Chan,421,5,Chemistry
+Kyle Mcgrath,393,4,Mechanical Engineering
+John Novak,437,1,Chemistry
+Kevin Randall,408,4,Computer Science
+Andrew Ray,133,5,Physics
+Rebecca Bird DVM,358,5,Physics
+Nathan Hale,392,4,Electrical Engineering
+Christopher Novak,103,4,Physics
+Chloe Brown,424,5,Chemistry
+Maria Grant,364,2,Mechanical Engineering
+Nicholas Mathews,436,4,Electrical Engineering
+Kelly Henderson,307,3,Mechanical Engineering
+Monica Cantu,445,2,Electrical Engineering
+Tiffany Hobbs,457,5,Computer Science
+Anthony Smith,160,1,Chemistry
+Adam Walker,317,3,Physics
+Jessica Espinoza,398,1,Chemistry
+Thomas Robinson,392,5,Computer Science
+Joseph Luna,126,4,Mathematics
+Christopher Garcia,235,1,Physics
+Eric Andrews,365,4,Mechanical Engineering
+Dr. Kimberly Beck,259,3,Chemistry
+Cynthia Collins,394,2,Chemistry
+Joseph Burke,243,2,Electrical Engineering
+Kayla Williamson,235,2,Mathematics
+Diana Rush,371,3,Mathematics
+Nathan Perkins,105,5,Physics
+Kristi Snyder,141,5,Mechanical Engineering
+Erin Miller,146,1,Mechanical Engineering
+Jennifer Cooper,182,5,Mechanical Engineering
+Dorothy Miller,143,3,Mathematics
+Mr. Kevin Harmon,415,5,Chemistry
+Nichole Velez,456,1,Electrical Engineering
+Juan Acevedo,272,5,Mathematics
+Lisa Green,117,2,Electrical Engineering
+Yesenia Johnson,196,1,Electrical Engineering
+Connor Frank,178,4,Electrical Engineering
+Heather Mccall,162,1,Electrical Engineering
+Eric Serrano,385,1,Chemistry
+Morgan Smith,488,5,Mathematics
+Stacey Flowers,481,4,Chemistry
+Michael Mason,491,1,Mathematics
+Mrs. Christine Clark,263,5,Electrical Engineering
+Michael Jones,478,5,Electrical Engineering
+Matthew Smith,438,4,Mathematics
+Jorge Molina,479,4,Mechanical Engineering
+Mark Parker,187,4,Mechanical Engineering
+Carlos Young,500,1,Computer Science
+John Henry,441,3,Mechanical Engineering
+Jessica Ferrell,158,1,Physics
+Danielle Graham,187,5,Computer Science
+Breanna Miller,214,3,Computer Science
+Jimmy Moran,212,5,Computer Science
+Meagan Frye,285,5,Electrical Engineering
+Kristin Foster,484,2,Computer Science
+Lisa West,379,3,Mechanical Engineering
+Jeffery Goodman,368,3,Physics
+Cindy Bush,427,5,Mathematics
+Michelle Long,467,3,Mathematics
+Micheal Wilcox,487,3,Computer Science
+Faith Kelly,326,2,Mechanical Engineering
+Mr. Tyler Pierce,381,2,Computer Science
+Jeffrey Craig,404,3,Physics
+Bruce Bennett,453,5,Physics
+Dan Lawson,327,4,Computer Science
+Clifford Hamilton,102,4,Physics
+Alan Smith,130,1,Electrical Engineering
+Michael Turner,291,5,Mechanical Engineering
+Allison Clark,353,3,Computer Science
+Christine Garcia,260,1,Computer Science
+Andrea Gonzalez,330,4,Computer Science
+Debra Brown,467,3,Electrical Engineering
+Rebecca Arias,202,4,Electrical Engineering
+Scott Chavez,429,5,Mathematics
+Beth Pennington,335,1,Physics
+Eric Fox,360,5,Mathematics
+Michael Oconnor,161,1,Mechanical Engineering
+Wayne Williams,251,1,Electrical Engineering
+Daniel Santiago,275,3,Mechanical Engineering
+Shannon Crawford,350,3,Electrical Engineering
+Billy Norton,131,3,Electrical Engineering
+Anna Kelly,249,1,Electrical Engineering
+Robert Patton,467,5,Chemistry
+Brenda Luna,280,1,Chemistry
+Jenna Sullivan,289,3,Mathematics
+James Smith,307,4,Mechanical Engineering
+Heather Wyatt,471,4,Mathematics
+Eric Hall,303,4,Chemistry
+Sara Nguyen,191,1,Mathematics
+Ricky Baldwin,203,5,Mechanical Engineering
+Michaela Jones,172,4,Chemistry
+Brandon Howard,321,3,Mathematics
+Stephanie Gibbs,400,3,Electrical Engineering
+Anne Roberts,442,2,Electrical Engineering
+Scott Salinas,124,1,Mechanical Engineering
+Jonathan Martinez,290,4,Mathematics
+Dr. Christopher Wilkins,480,1,Mathematics
+Katie Bennett,177,5,Electrical Engineering
+Susan Moreno,157,4,Chemistry
+Christopher Marshall,395,4,Mechanical Engineering
+Kayla Rocha,117,5,Physics
+Stephanie Valdez,380,5,Electrical Engineering
+Elizabeth Cook,329,2,Electrical Engineering
+Rodney Hoffman,499,3,Mathematics
+Jennifer Flores,349,2,Chemistry
+Christopher Mayo,410,1,Physics
+Kathy Khan,100,5,Chemistry
+Kimberly Hodges,275,4,Physics
+Ricky Wang,258,2,Mathematics
+Daniel Collins,397,4,Mechanical Engineering
+Michael Collins,443,4,Electrical Engineering
+Johnny Rush,181,2,Electrical Engineering
+Jonathan Chapman,475,1,Mechanical Engineering
+Greg Ferguson,285,2,Electrical Engineering
+Jay Moore,116,5,Physics
+Bryan Briggs,227,3,Physics
+Janice Anderson,206,4,Chemistry
+Michael Chapman,464,1,Chemistry
+Rebecca Cox,122,3,Electrical Engineering
+Paul Cummings,178,1,Mechanical Engineering
+Terry Hudson,147,1,Physics
+Julia Bryant,325,1,Physics
+Carol Frazier,313,2,Physics
+John Robinson,122,2,Physics
+Joshua Soto,378,4,Mathematics
+Regina Harper,465,1,Chemistry
+Kimberly Simmons,291,2,Electrical Engineering
+Cameron Bryant,446,5,Chemistry
+Christine Scott,237,3,Mathematics
+Cassidy Thompson,286,2,Physics
